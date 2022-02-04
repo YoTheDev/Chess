@@ -1,0 +1,19 @@
+﻿public enum Pieces {
+    None,
+    WhiteChessPawn,
+    BlackChessPawn,
+    WhiteChessRook,
+    BlackChessRook,
+    WhiteChessKnight,
+    BlackChessKnight,
+    WhiteChessBishop,
+    BlackChessBishop,
+    WhiteChessQueen,
+    BlackChessQueen,
+    WhiteChessKing,
+    BlackChessKing,
+    WhiteCheckersMen,
+    BlackCheckersMen,
+    WhiteCheckersKing,
+    BlackCheckersKing
+}
